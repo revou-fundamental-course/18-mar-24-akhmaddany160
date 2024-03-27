@@ -40,3 +40,7 @@ hr {
 .section-content-container {
     display:flex;  
 }
+.banner-section {
+    display: flex; size: 50%;
+
+}
